@@ -1,6 +1,6 @@
 # UCB-Data-Bootcamp-Matplotlib-Pyber-
 
-I've used data given to me by Pyber to create useful plots in order to gain better insights into the company.
+I used data given to me by Pyber to create useful plots in order to gain better insights into the company.
 
 I created a bubbleplot that uses Total rides by city as the x-axis and the Average rides by city as the y-axis. The color of the scatter points are determined based on the city type (Urban, Suburban, Rural). Finally, the size of each point is determined by the amount of driver in that city.
 
